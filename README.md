@@ -23,6 +23,7 @@
 
 ### File structure of node js
 
+```
 nodejs-project/
 │
 ├── node_modules/         (Automatically generated directory containing installed packages)
@@ -62,7 +63,7 @@ nodejs-project/
 ├── package-lock.json      (File containing exact versions of dependencies)
 ├── .gitignore             (File specifying files and directories to ignore in Git)
 └── README.md              (File containing project documentation)
-
+```
 
 ### What is an event-loop in Node JS?
 
